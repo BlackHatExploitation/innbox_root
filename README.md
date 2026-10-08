@@ -155,13 +155,6 @@ $
 
 1. **Firewall rules** — Block port 80/443 access to the ONT
 2. **Contact ISP** — Request firmware update or device replacement
-
----
-
-## References
-
-- Exploit PoC: https://github.com/BlackHatExploitation/innbox_root
-
 ---
 
 ## Appendix: Raw HTTP Request
