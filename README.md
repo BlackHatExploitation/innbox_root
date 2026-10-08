@@ -175,6 +175,8 @@ RequestFrom: MyInnbox
 
 This bypass only affects specific firmware builds where `cfg_get_customize() == 6`.
 
+<img width="2100" height="1478" alt="image" src="https://github.com/user-attachments/assets/57d79094-0fb5-4754-b14c-3eb9c9f89de3" />
+
 ---
 
 ## Impact Assessment
